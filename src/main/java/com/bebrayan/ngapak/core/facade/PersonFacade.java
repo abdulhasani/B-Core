@@ -1,4 +1,4 @@
-package com.bebaryan.ngapak.core.facade;
+package com.bebrayan.ngapak.core.facade;
 
 import com.bebrayan.ngapak.core.entity.Person;
 import com.bebrayan.ngapak.core.facade.AbstractDatabaseFacade;
